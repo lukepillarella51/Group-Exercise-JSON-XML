@@ -3,7 +3,7 @@
 		{
 			"enrollmentId" : 3001,
 			"startDate" : "2020-08-31",
-			"grade" : ""
+			"grade" : "",
 			"Student" :[{
 				"studentId" : 1001,
 				"name" : "Harvey Kim",
