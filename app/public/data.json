@@ -1,1 +1,155 @@
-//add json data format here
+{
+	"Enrollment" :[
+		{
+			"enrollmentId" : 3001,
+			"startDate" : "2020-08-31",
+			"grade" : ""
+			"Student" :[{
+				"studentId" : 1001,
+				"name" : "Harvey Kim",
+				"dob" : "1996-12-12"
+			}],
+			"Course": [{
+				"courseId" : "BUSX2003",
+				"name" : "Spreadsheet Modeling",
+				"credits" : 2,
+				"enrollmentCap" : 55
+			}]
+		},
+
+		{
+			"enrollmentId" : 3002,
+			"startDate" : "2020-01-12",
+			"grade" : "A",
+			"Student" :[{
+				"studentId" : 1001,
+				"name" : "Harvey Kim",
+				"dob" : "1996-12-12"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2004",
+				"name" : "Pricing Management",
+				"credits" : 2,
+				"enrollmentCap" : 50,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3003,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1001,
+				"name" : "Harvey Kim",
+				"dob" : "1996-12-12"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2001",
+				"name" : "Economics",
+				"credits" : 3,
+				"enrollmentCap" : 45,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3004,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1002,
+				"name" : "Emilia Harris",
+				"dob" : "1999-05-06"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2001",
+				"name" : "Economics",
+				"credits" : 3,
+				"enrollmentCap" : 45,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3005,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1002,
+				"name" : "Emilia Harris",
+				"dob" : "1999-05-06"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2002",
+				"name" : "Applied Statistics",
+				"credits" : 2,
+				"enrollmentCap" : 20,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3006,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1002,
+				"name" : "Emilia Harris",
+				"dob" : "1999-05-06"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2003",
+				"name" : "Spreadsheet Modelin",
+				"credits" : 2,
+				"enrollmentCap" : 55,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3007,
+			"startDate" : "2020-01-12",
+			"grade" : "B-",
+			"Student" :[{
+				"studentId" : 1002,
+				"name" : "Emilia Harris",
+				"dob" : "1999-05-06"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2004",
+				"name" : "Pricing Management",
+				"credits" : 2,
+				"enrollmentCap" : 50,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3008,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1003,
+				"name" : "Brian McCallister",
+				"dob" : "1997-04-16"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2002",
+				"name" : "Applied Statistics",
+				"credits" : 2,
+				"enrollmentCap" : 20,
+				}]
+		},
+
+		{
+			"enrollmentId" : 3009,
+			"startDate" : "2020-08-31",
+			"grade" : "",
+			"Student" :[{
+				"studentId" : 1003,
+				"name" : "Brian McCallister",
+				"dob" : "1997-04-16"
+			}],
+			"Course":[{
+				"courseId" : "BUSX2001",
+				"name" : "Economics",
+				"credits" : 3,
+				"enrollmentCap" : 45,
+				}]
+		]
+}
