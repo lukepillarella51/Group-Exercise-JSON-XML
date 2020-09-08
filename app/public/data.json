@@ -30,7 +30,7 @@
 				"courseId" : "BUSX2004",
 				"name" : "Pricing Management",
 				"credits" : 2,
-				"enrollmentCap" : 50,
+				"enrollmentCap" : 50
 				}]
 		},
 
@@ -47,7 +47,7 @@
 				"courseId" : "BUSX2001",
 				"name" : "Economics",
 				"credits" : 3,
-				"enrollmentCap" : 45,
+				"enrollmentCap" : 45
 				}]
 		},
 
@@ -64,7 +64,7 @@
 				"courseId" : "BUSX2001",
 				"name" : "Economics",
 				"credits" : 3,
-				"enrollmentCap" : 45,
+				"enrollmentCap" : 45
 				}]
 		},
 
@@ -81,7 +81,7 @@
 				"courseId" : "BUSX2002",
 				"name" : "Applied Statistics",
 				"credits" : 2,
-				"enrollmentCap" : 20,
+				"enrollmentCap" : 20
 				}]
 		},
 
@@ -98,7 +98,7 @@
 				"courseId" : "BUSX2003",
 				"name" : "Spreadsheet Modelin",
 				"credits" : 2,
-				"enrollmentCap" : 55,
+				"enrollmentCap" : 55
 				}]
 		},
 
@@ -115,7 +115,7 @@
 				"courseId" : "BUSX2004",
 				"name" : "Pricing Management",
 				"credits" : 2,
-				"enrollmentCap" : 50,
+				"enrollmentCap" : 50
 				}]
 		},
 
@@ -132,7 +132,7 @@
 				"courseId" : "BUSX2002",
 				"name" : "Applied Statistics",
 				"credits" : 2,
-				"enrollmentCap" : 20,
+				"enrollmentCap" : 20
 				}]
 		},
 
@@ -149,7 +149,7 @@
 				"courseId" : "BUSX2001",
 				"name" : "Economics",
 				"credits" : 3,
-				"enrollmentCap" : 45,
+				"enrollmentCap" : 45
 				}]
       }
     ]
